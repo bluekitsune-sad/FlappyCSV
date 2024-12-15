@@ -1,2 +1,2 @@
 # FlappyCSV
-fon (fun)
+This is attempt at a flappy bird in Excel using vb editor
